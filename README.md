@@ -1,3 +1,10 @@
+
+React UI for notes application
+
+Create-Update-Delete components
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
