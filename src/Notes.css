@@ -1,0 +1,100 @@
+#container {
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
+
+body {background-color: #dddddd;}
+table {
+  border-collapse: collapse;
+  width: 800px;
+  margin: 30px auto;
+}
+th, td {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+  font-size: 12px;
+}
+tr:nth-child(even) {
+  background-color: #f2f2f2
+
+}
+tr:hover {
+  background-color: #95A5A7;
+}
+th {
+  background-color: goldenrod;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  height: 30px;
+
+}
+td {
+    border: 1px solid #ddd;
+    text-align: left;
+    padding: 1px;
+    font-size: 14px;
+
+}
+.button {
+  border: none;
+  color: white;
+
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+
+.button1 {
+    padding: 30px;
+    border-radius: 50%;
+
+}
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+.button2 {padding: 8px 14px; background-color: dodgerblue ; border-radius: 4px; }
+.button2:hover {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.button3 {padding: 8px 10px; background-color: maroon ; border-radius: 4px;}
+.button3:hover {
+  background-color: darkred;
+  color: white;
+}
+
+.buttonNotes {
+    padding: 20px;
+    border-radius: 4px;
+
+}
+.buttonNotes:hover {
+    background-color: goldenrod;
+    color: white;
+}
+
+#inputAdd
+{
+    padding: 30px;
+    border-radius: 50%;
+}
+
+#inputAdd:hover
+{
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+
